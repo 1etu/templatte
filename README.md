@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/02ce099b-271d-45cc-bc22-de3b97bba764
 # Templatte
 A Discord bot that allows you to import and export Discord server templates, making it easy to backup and replicate server configurations.
 
@@ -34,6 +32,6 @@ npm run watch
 ```
 
 # Demo
-Exporting: https://streamable.com/qfzan6
+Exporting: [https://streamable.com/qfzan6](https://github.com/user-attachments/assets/02ce099b-271d-45cc-bc22-de3b97bba764)
 Importing: https://streamable.com/gmz23e
 
