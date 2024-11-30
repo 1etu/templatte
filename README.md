@@ -31,7 +31,7 @@ CLIENT_ID=
 npm run watch
 ```
 
-# Demo
-Exporting: [https://streamable.com/qfzan6](https://github.com/user-attachments/assets/02ce099b-271d-45cc-bc22-de3b97bba764)
+# Dem
+Exporting: https://github.com/user-attachments/assets/02ce099b-271d-45cc-bc22-de3b97bba764
 Importing: https://streamable.com/gmz23e
 
